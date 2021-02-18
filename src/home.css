@@ -1,0 +1,29 @@
+.home{
+    display :flex;
+    flex-direction: row !important;
+    
+}
+.leftSideOfChatRoom{
+    position: absolute;
+    display:flex;
+    flex-direction: column !important;
+    margin-left: 0px;
+    width: 30%;
+    padding-left: 0px;
+    justify-content: left !important;
+    background-color: gray;
+    
+}
+.rightSideOfChatRoom{
+justify-items: center;    
+position: absolute;
+margin-left: 30%;
+width:70%;
+
+}
+.profile__Signout{
+    display:flex;
+}
+.button2{
+ 
+}
