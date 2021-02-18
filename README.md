@@ -1,3 +1,14 @@
+# Chat App made up of 
+
+-Functional component React,React hooks,React context API
+-material-UI icons
+-Firebase for database(noSQL) and hosting
+ 
+ # Chat website features:
+ -one to one chat in real time
+ -group chat 
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
